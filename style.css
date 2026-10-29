@@ -1,0 +1,83 @@
+.header-container {
+    color: #F9FAF8;
+    display: flex;
+    background-color: #1F2937;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: auto;
+    height: 60px;
+    align-items: center;
+    padding: 8px;
+}
+.body {
+    margin: 0;
+}
+.logo-header {
+    margin-left: 6px;
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: 600;
+}
+.icon-header {
+    padding: 3px;
+}
+.main-image-img {
+    width: 350px;
+    height: auto;
+    border-radius: 5px;
+}
+.top-main {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: row;
+    background-color: #1F2937;
+    padding: 10px;
+    padding-bottom: 30px;
+    align-items: center;
+}
+.main-image {
+    color: #F9FAF8;
+    margin-left: auto;
+    margin-right: 10%;
+    
+}
+.main-description {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #F9FAF8;
+    margin-left: 10%;
+    padding-right: 8px;
+}
+.top-main-heading {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 900;
+}
+.top-main-sub-heading {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.btn-sign-in {
+    text-decoration: none;
+    background-color: #3882F6;
+    border: none;
+    padding: 5px;
+    width: 60px;
+    border-radius: 5px;
+    color: #e5e7eb;
+}
+.favorite-hotels {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img-card {
+    border-radius: 8px;
+    width: 150px;
+    height: 150px;
+}
+.main-properties {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
